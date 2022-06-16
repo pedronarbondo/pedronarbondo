@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Narbondo</h1>
-<h3 align="center">I started programming in 2022 after many gentle nudges from people who are close to me. I've been loving the experience so far, even if the learning curve can sometimes feel a bit overwhelming!</h3>
+<h3 align="center">I started programming in 2022 after many gentle nudges from people who are close to me. I've been loving the experience so far, even if the learning curve can sometimes feel a bit overwhelming! 
+I work in Visual Studio Code, and my favourite tools so far are: Emmet, Eslint and Prettier.</h3>
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 

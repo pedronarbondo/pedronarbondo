@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **Fullstack Javascript, up next being React.js and Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pedronarbondo?tab=repositories](https://github.com/pedronarbondo?tab=repositories)
+      (NOTE: Since I started working, I haven't developed any new projects from The Odin Project. My repos are a picture of my state as a developer as of 19-07-           2022)
 
 - 💬 Ask me about **anything music related, piano and/or gaming.**
 
